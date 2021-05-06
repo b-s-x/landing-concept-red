@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afb41197067d78761a9849f3da885932",
+    "revision": "6e813fd850c0516964b822f114928d28",
     "url": "/landing-concept-red/index.html"
   },
   {
-    "revision": "9a59a909a2f0486640e4",
+    "revision": "ac0090ff67d065d41444",
     "url": "/landing-concept-red/static/css/main.b63ff956.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/landing-concept-red/static/js/2.cbdeb42e.chunk.js"
   },
   {
-    "revision": "9a59a909a2f0486640e4",
-    "url": "/landing-concept-red/static/js/main.41c383c6.chunk.js"
+    "revision": "ac0090ff67d065d41444",
+    "url": "/landing-concept-red/static/js/main.7259f6ba.chunk.js"
   },
   {
     "revision": "dab6d0984a44064b5b56",
