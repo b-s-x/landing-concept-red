@@ -9,7 +9,7 @@ export const App = () => {
   const routes = useRoute()
 
   return (
-    <Router>
+    <Router basename='/' exact>
       <div className="app">
         <Header />
         <div className={app.app__container}>
