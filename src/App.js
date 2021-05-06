@@ -9,7 +9,7 @@ export const App = () => {
   const routes = useRoute()
 
   return (
-    <Router basename='/' exact>
+    <Router basename='/landing-concept-red'>
       <div className="app">
         <Header />
         <div className={app.app__container}>
