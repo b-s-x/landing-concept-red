@@ -1,0 +1,7 @@
+@import '../../styles/common.scss';
+
+.opportunities {
+  &__text {
+    @extend %page__text;
+  }
+}

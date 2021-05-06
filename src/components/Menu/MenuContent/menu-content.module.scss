@@ -1,0 +1,18 @@
+.info {
+  color: #fff;
+  max-width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &__title {
+    font-size: 28px;
+    font-weight: 900;
+    margin: 8px auto;
+  }
+  &__text {
+    color: #fff;
+    font-size: 20px;
+    line-height: 1.5;
+  }
+}

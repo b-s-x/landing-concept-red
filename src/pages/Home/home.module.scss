@@ -1,0 +1,15 @@
+.home {
+  &__container {
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: clamp(600px, 60%, 1200px);
+  }
+
+  &__text {
+    line-height: 1.5;
+    font-size: 28px;
+    font-weight: 600;
+  }
+}

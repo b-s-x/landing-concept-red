@@ -1,0 +1,29 @@
+@import "../../../styles/common.scss";
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 200px;
+
+  &__box {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__item {
+    position: relative;
+    color: #fff;
+    text-decoration: none;
+    font-size: 6rem;
+    font-weight: 700;
+    cursor: pointer;
+    height: 135px;
+    overflow: hidden;
+    width: 700px;
+
+    &:hover {
+      color: $black;
+    }
+  }
+}
