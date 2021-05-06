@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/landing-concept-red/precache-manifest.f6fecb5aa0afece551540c9908c312bd.js"
+  "/landing-concept-red/precache-manifest.30b76a7f7f83d194450529d97dd567a2.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/landing-concept-red/static/css/main.b63ff956.chunk.css",
-    "main.js": "/landing-concept-red/static/js/main.7259f6ba.chunk.js",
-    "main.js.map": "/landing-concept-red/static/js/main.7259f6ba.chunk.js.map",
+    "main.js": "/landing-concept-red/static/js/main.7474a035.chunk.js",
+    "main.js.map": "/landing-concept-red/static/js/main.7474a035.chunk.js.map",
     "runtime-main.js": "/landing-concept-red/static/js/runtime-main.7efafc4b.js",
     "runtime-main.js.map": "/landing-concept-red/static/js/runtime-main.7efafc4b.js.map",
     "static/js/2.cbdeb42e.chunk.js": "/landing-concept-red/static/js/2.cbdeb42e.chunk.js",
     "static/js/2.cbdeb42e.chunk.js.map": "/landing-concept-red/static/js/2.cbdeb42e.chunk.js.map",
     "index.html": "/landing-concept-red/index.html",
-    "precache-manifest.f6fecb5aa0afece551540c9908c312bd.js": "/landing-concept-red/precache-manifest.f6fecb5aa0afece551540c9908c312bd.js",
+    "precache-manifest.30b76a7f7f83d194450529d97dd567a2.js": "/landing-concept-red/precache-manifest.30b76a7f7f83d194450529d97dd567a2.js",
     "service-worker.js": "/landing-concept-red/service-worker.js",
     "static/css/main.b63ff956.chunk.css.map": "/landing-concept-red/static/css/main.b63ff956.chunk.css.map",
     "static/media/austin.webp": "/landing-concept-red/static/media/austin.a7aadf33.webp",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.7efafc4b.js",
     "static/js/2.cbdeb42e.chunk.js",
     "static/css/main.b63ff956.chunk.css",
-    "static/js/main.7259f6ba.chunk.js"
+    "static/js/main.7474a035.chunk.js"
   ]
 }
